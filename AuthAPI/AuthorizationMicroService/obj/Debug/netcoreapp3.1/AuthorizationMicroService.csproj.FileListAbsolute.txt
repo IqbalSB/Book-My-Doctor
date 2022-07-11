@@ -1,0 +1,470 @@
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.exe
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfo.cs
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.xml
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CopyComplete
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.deps.json
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.json
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.dev.json
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\user\Desktop\Update\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.genruntimeconfig.cache
+C:\Users\user\Desktop\Update\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.yaml
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.exe
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.yaml
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.deps.json
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.json
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.dev.json
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfo.cs
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CopyComplete
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.xml
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\user\Desktop\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.genruntimeconfig.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.exe
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.yaml
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.deps.json
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.json
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.dev.json
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfo.cs
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CopyComplete
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.xml
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\user\Desktop\Mail Order Pharmacy\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.genruntimeconfig.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.StaticWebAssets.xml
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.exe
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.yaml
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.deps.json
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.json
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.dev.json
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.AssemblyReference.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfoInputs.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfo.cs
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CopyComplete
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\wwwde\OneDrive\Documents\Pod-5-MailOrderPharmacy-main\Pod-5-MailOrderPharmacy-main\AuthorizationMicroService\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.genruntimeconfig.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.StaticWebAssets.xml
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.exe
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.yaml
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.deps.json
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.json
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.dev.json
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.AssemblyReference.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfoInputs.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfo.cs
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CopyComplete
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.genruntimeconfig.cache
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\log4net.config
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.StaticWebAssets.xml
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.exe
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.yaml
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.deps.json
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.json
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.dev.json
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.AssemblyReference.cache
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfoInputs.cache
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfo.cs
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CopyComplete
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+E:\Training\Final\Web-Api-combined-20220706T205541Z-001\Web-Api-combined\Authorization-MicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.genruntimeconfig.cache
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.config
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.StaticWebAssets.xml
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.exe
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.yaml
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.deps.json
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.json
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.dev.json
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.AssemblyReference.cache
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfoInputs.cache
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfo.cs
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CopyComplete
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+E:\Training\Book-My-Doctor-Final\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.genruntimeconfig.cache
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.config
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.StaticWebAssets.xml
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.exe
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.yaml
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.deps.json
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.json
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.dev.json
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.AssemblyReference.cache
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfoInputs.cache
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfo.cs
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CopyComplete
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+E:\Training\Book-My-Doctor-Final\New folder\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.genruntimeconfig.cache
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.config
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.StaticWebAssets.xml
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.exe
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.yaml
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.deps.json
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.json
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.runtimeconfig.dev.json
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.AssemblyReference.cache
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfoInputs.cache
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.AssemblyInfo.cs
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CoreCompileInputs.cache
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cs
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.MvcApplicationPartsAssemblyInfo.cache
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroService.StaticWebAssets.Manifest.cache
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.RazorTargetAssemblyInfo.cache
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.csproj.CopyComplete
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.dll
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.pdb
+E:\Training\Book-My-Doctor-Final\AuthAPI\AuthorizationMicroService\obj\Debug\netcoreapp3.1\AuthorizationMicroService.genruntimeconfig.cache

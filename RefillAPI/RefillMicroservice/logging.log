@@ -1,0 +1,61 @@
+INFO  12:43:53 Application started. Press Ctrl+C to shut down.
+INFO  12:43:53 Application started. Press Ctrl+C to shut down.
+INFO  12:43:53 Hosting environment: Development
+INFO  12:43:53 Hosting environment: Development
+INFO  12:43:53 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice
+INFO  12:43:53 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice
+INFO  01:19:14 Application started. Press Ctrl+C to shut down.
+INFO  01:19:14 Application started. Press Ctrl+C to shut down.
+INFO  01:19:14 Hosting environment: Development
+INFO  01:19:14 Hosting environment: Development
+INFO  01:19:14 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice
+INFO  01:19:14 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice
+INFO  01:19:22 RefillStatus Method that Called ID is 1
+INFO  01:23:29 RefillStatus Method that Called ID is 1
+INFO  01:27:34 RefillStatus Method that Called ID is 1
+INFO  01:28:01 RefillStatus Method that Called ID is 2
+INFO  01:29:05 RefillStatus Method that Called ID is 1
+INFO  01:30:37 RefillStatus Method that Called ID is 2
+INFO  01:30:43 RefillStatus Method that Called ID is 3
+INFO  01:31:43 RefillStatus Method that Called ID is 1
+INFO  01:31:50 RefillStatus Method that Called ID is 2
+INFO  01:32:47 RefillStatus Method that Called ID is 3
+INFO  01:34:15 RefillStatus Method that Called ID is 1
+INFO  01:36:57 RefillStatus Method that Called ID is 1
+INFO  01:37:03 RefillStatus Method that Called ID is 2
+INFO  03:38:23 Application started. Press Ctrl+C to shut down.
+INFO  03:38:23 Application started. Press Ctrl+C to shut down.
+INFO  03:38:23 Hosting environment: Development
+INFO  03:38:23 Hosting environment: Development
+INFO  03:38:23 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice
+INFO  03:38:23 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice
+INFO  03:40:35 RefillStatus Method that Called ID is 1
+INFO  03:40:47 RefillStatus Method that Called ID is 2
+INFO  03:41:34 RefillStatus Method that Called ID is 1
+INFO  03:44:12 RefillStatus Method that Called ID is 1
+INFO  03:45:37 RefillStatus Method that Called ID is 1
+INFO  03:45:56 RefillStatus Method that Called ID is 1
+INFO  03:49:25 RefillStatus Method that Called ID is 1
+INFO  03:53:08 RefillStatus Method that Called ID is 1
+INFO  03:53:31 RefillStatus Method that Called ID is 1
+INFO  03:53:59 RefillStatus Method that Called ID is 1
+INFO  03:54:21 RefillStatus Method that Called ID is 1
+INFO  04:01:10 RefillStatus Method that Called ID is 1
+INFO  04:02:56 RefillStatus Method that Called ID is 1
+INFO  04:03:16 RefillStatus Method that Called ID is 1
+INFO  04:04:03 RefillStatus Method that Called ID is 1
+INFO  04:05:47 RefillStatus Method that Called ID is 1
+INFO  04:05:55 RefillStatus Method that Called ID is 2
+INFO  04:05:59 RefillStatus Method that Called ID is 3
+INFO  04:06:05 RefillStatus Method that Called ID is 4
+INFO  04:06:12 RefillStatus Method that Called ID is 3
+INFO  04:08:14 RefillStatus Method that Called ID is 1
+INFO  04:08:27 RefillStatus Method that Called ID is 1
+INFO  05:32:27 Application started. Press Ctrl+C to shut down.
+INFO  05:32:27 Application started. Press Ctrl+C to shut down.
+INFO  05:32:27 Hosting environment: Development
+INFO  05:32:27 Hosting environment: Development
+INFO  05:32:27 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice
+INFO  05:32:27 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Refill-Microservice
+INFO  05:35:29 RefillStatus Method that Called ID is 1
+INFO  05:35:33 RefillStatus Method that Called ID is 3

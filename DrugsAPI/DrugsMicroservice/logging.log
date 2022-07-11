@@ -1,0 +1,216 @@
+INFO  03:08:52 Application started. Press Ctrl+C to shut down.
+INFO  03:08:52 Hosting environment: Development
+INFO  03:08:52 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Drugs-Microservice
+INFO  03:10:24 Drug ID 1 Entered For Searching
+INFO  03:10:24 searchDrugsById from provider is called with DrugId: 1
+INFO  03:10:24 Searchng started according to DrugId = 1
+INFO  03:10:24 Drugs Details Returned According to DrugId = 1
+INFO  12:35:31 Application started. Press Ctrl+C to shut down.
+INFO  12:35:31 Hosting environment: Development
+INFO  12:35:31 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Drugs-Microservice
+INFO  06:36:38 Application started. Press Ctrl+C to shut down.
+INFO  06:36:38 Hosting environment: Development
+INFO  06:36:38 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Drugs-Microservice
+INFO  06:55:46 Application started. Press Ctrl+C to shut down.
+INFO  06:55:46 Hosting environment: Development
+INFO  06:55:46 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Drugs-Microservice
+INFO  07:14:36  Drug Name Disprin Entered For Searching
+INFO  07:14:36 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  07:14:36 Searchng started according to Name = Disprin
+INFO  07:14:36 Drugs Details Returned According to Name = Disprin
+INFO  07:21:16  Drug Name Disprin Entered For Searching
+INFO  07:21:16 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  07:21:16 Searchng started according to Name = Disprin
+INFO  07:21:16 Drugs Details Returned According to Name = Disprin
+INFO  07:24:51  Drug Name Disprin Entered For Searching
+INFO  07:24:51 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  07:24:51 Searchng started according to Name = Disprin
+INFO  07:24:51 Drugs Details Returned According to Name = Disprin
+INFO  07:27:54  Drug Name Disprin Entered For Searching
+INFO  07:27:54 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  07:27:54 Searchng started according to Name = Disprin
+INFO  07:27:54 Drugs Details Returned According to Name = Disprin
+INFO  07:28:38  Drug Name Disprin Entered For Searching
+INFO  07:28:38 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  07:28:38 Searchng started according to Name = Disprin
+INFO  07:28:38 Drugs Details Returned According to Name = Disprin
+INFO  07:29:10  Drug Name Disprin Entered For Searching
+INFO  07:29:10 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  07:29:10 Searchng started according to Name = Disprin
+INFO  07:29:10 Drugs Details Returned According to Name = Disprin
+INFO  07:45:40  Drug Name Disprin Entered For Searching
+INFO  07:45:40 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  07:45:40 Searchng started according to Name = Disprin
+INFO  07:45:40 Drugs Details Returned According to Name = Disprin
+INFO  07:46:18  Drug Name Disprin Entered For Searching
+INFO  07:46:18 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  07:46:18 Searchng started according to Name = Disprin
+INFO  07:46:18 Drugs Details Returned According to Name = Disprin
+INFO  07:48:20  Drug Name Disprin Entered For Searching
+INFO  07:48:20 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  07:48:20 Searchng started according to Name = Disprin
+INFO  07:48:20 Drugs Details Returned According to Name = Disprin
+INFO  10:03:56 Application started. Press Ctrl+C to shut down.
+INFO  10:03:56 Hosting environment: Development
+INFO  10:03:56 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Drugs-Microservice
+INFO  10:04:14  Drug Name Disprin Entered For Searching
+INFO  10:04:14 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  10:04:14 Searchng started according to Name = Disprin
+INFO  10:04:14 Drugs Details Returned According to Name = Disprin
+INFO  10:05:53  Drug Name Disprin Entered For Searching
+INFO  10:05:53 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  10:05:53 Searchng started according to Name = Disprin
+INFO  10:05:53 Drugs Details Returned According to Name = Disprin
+INFO  10:06:29  Drug Name Disprin Entered For Searching
+INFO  10:06:29 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  10:06:29 Searchng started according to Name = Disprin
+INFO  10:06:29 Drugs Details Returned According to Name = Disprin
+INFO  10:15:12  Drug Name Disprin Entered For Searching
+INFO  10:15:12 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  10:15:12 Searchng started according to Name = Disprin
+INFO  10:15:12 Drugs Details Returned According to Name = Disprin
+INFO  10:16:28  Drug Name Disprin Entered For Searching
+INFO  10:16:28 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  10:16:28 Searchng started according to Name = Disprin
+INFO  10:16:28 Drugs Details Returned According to Name = Disprin
+INFO  10:17:21  Drug Name Disprin Entered For Searching
+INFO  10:17:21 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  10:17:21 Searchng started according to Name = Disprin
+INFO  10:17:21 Drugs Details Returned According to Name = Disprin
+INFO  10:19:04  Drug Name Disprin Entered For Searching
+INFO  10:19:04 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  10:19:04 Searchng started according to Name = Disprin
+INFO  10:19:04 Drugs Details Returned According to Name = Disprin
+INFO  10:24:53  Drug Name Disprin Entered For Searching
+INFO  10:24:53 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  10:24:53 Searchng started according to Name = Disprin
+INFO  10:24:53 Drugs Details Returned According to Name = Disprin
+INFO  10:27:58  Drug Name Disprin Entered For Searching
+INFO  10:27:58 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  10:27:58 Searchng started according to Name = Disprin
+INFO  10:27:58 Drugs Details Returned According to Name = Disprin
+INFO  10:31:36  Drug Name Paracetamol Entered For Searching
+INFO  10:31:36 searchDrugsByName from provider is called with DrugName: Paracetamol
+INFO  10:31:36 Searchng started according to Name = Paracetamol
+INFO  10:31:36 Drugs Details Returned According to Name = Paracetamol
+INFO  10:54:15  Drug Name Disprin Entered For Searching
+INFO  10:54:15 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  10:54:15 Searchng started according to Name = Disprin
+INFO  10:54:15 Drugs Details Returned According to Name = Disprin
+INFO  10:56:49  Drug Name Disprin Entered For Searching
+INFO  10:56:49 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  10:56:49 Searchng started according to Name = Disprin
+INFO  10:56:49 Drugs Details Returned According to Name = Disprin
+INFO  10:56:56  Drug Name Paracetamol Entered For Searching
+INFO  10:56:56 searchDrugsByName from provider is called with DrugName: Paracetamol
+INFO  10:56:56 Searchng started according to Name = Paracetamol
+INFO  10:56:56 Drugs Details Returned According to Name = Paracetamol
+INFO  11:02:35  Drug Name Disprin Entered For Searching
+INFO  11:02:35 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  11:02:35 Searchng started according to Name = Disprin
+INFO  11:02:35 Drugs Details Returned According to Name = Disprin
+INFO  11:25:09  Drug Name Disprin Entered For Searching
+INFO  11:25:09 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  11:25:09 Searchng started according to Name = Disprin
+INFO  11:25:09 Drugs Details Returned According to Name = Disprin
+INFO  11:25:17  Drug Name Paracetamol Entered For Searching
+INFO  11:25:17 searchDrugsByName from provider is called with DrugName: Paracetamol
+INFO  11:25:17 Searchng started according to Name = Paracetamol
+INFO  11:25:17 Drugs Details Returned According to Name = Paracetamol
+INFO  11:25:22 Drug ID 1 Entered For Searching
+INFO  11:25:22 searchDrugsById from provider is called with DrugId: 1
+INFO  11:25:22 Searchng started according to DrugId = 1
+INFO  11:25:22 Drugs Details Returned According to DrugId = 1
+INFO  11:25:27 Drug ID 2 Entered For Searching
+INFO  11:25:27 searchDrugsById from provider is called with DrugId: 2
+INFO  11:25:27 Searchng started according to DrugId = 2
+INFO  11:25:27 Drugs Details Returned According to DrugId = 2
+INFO  11:25:58 Drug ID 1 Entered For Searching
+INFO  11:25:58 searchDrugsById from provider is called with DrugId: 1
+INFO  11:25:58 Searchng started according to DrugId = 1
+INFO  11:25:58 Drugs Details Returned According to DrugId = 1
+INFO  11:26:26 Drug ID 1 Entered For Searching
+INFO  11:26:26 searchDrugsById from provider is called with DrugId: 1
+INFO  11:26:26 Searchng started according to DrugId = 1
+INFO  11:26:26 Drugs Details Returned According to DrugId = 1
+INFO  11:24:38 Application started. Press Ctrl+C to shut down.
+INFO  11:24:38 Hosting environment: Development
+INFO  11:24:38 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Drugs-Microservice
+INFO  11:24:45  Drug Name Disprin Entered For Searching
+INFO  11:24:45 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  11:24:45 Searchng started according to Name = Disprin
+INFO  11:24:45 Drugs Details Returned According to Name = Disprin
+INFO  11:24:51  Drug Name Paracetamol Entered For Searching
+INFO  11:24:51 searchDrugsByName from provider is called with DrugName: Paracetamol
+INFO  11:24:51 Searchng started according to Name = Paracetamol
+INFO  11:24:51 Drugs Details Returned According to Name = Paracetamol
+INFO  11:46:19  Drug Name Disprin Entered For Searching
+INFO  11:46:19 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  11:46:19 Searchng started according to Name = Disprin
+INFO  11:46:19 Drugs Details Returned According to Name = Disprin
+INFO  11:50:47  Drug Name Disprin Entered For Searching
+INFO  11:50:47 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  11:50:47 Searchng started according to Name = Disprin
+INFO  11:50:47 Drugs Details Returned According to Name = Disprin
+INFO  11:50:55  Drug Name Disprin Entered For Searching
+INFO  11:50:55 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  11:50:55 Searchng started according to Name = Disprin
+INFO  11:50:55 Drugs Details Returned According to Name = Disprin
+INFO  11:51:00  Drug Name Paracetamol Entered For Searching
+INFO  11:51:00 searchDrugsByName from provider is called with DrugName: Paracetamol
+INFO  11:51:00 Searchng started according to Name = Paracetamol
+INFO  11:51:00 Drugs Details Returned According to Name = Paracetamol
+INFO  11:51:09 Drug ID 1 Entered For Searching
+INFO  11:51:09 searchDrugsById from provider is called with DrugId: 1
+INFO  11:51:09 Searchng started according to DrugId = 1
+INFO  11:51:09 Drugs Details Returned According to DrugId = 1
+INFO  11:51:12 Drug ID 2 Entered For Searching
+INFO  11:51:12 searchDrugsById from provider is called with DrugId: 2
+INFO  11:51:12 Searchng started according to DrugId = 2
+INFO  11:51:12 Drugs Details Returned According to DrugId = 2
+INFO  01:17:11  Drug Name Disprin Entered For Searching
+INFO  01:17:11 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  01:17:11 Searchng started according to Name = Disprin
+INFO  01:17:11 Drugs Details Returned According to Name = Disprin
+INFO  01:34:23  Drug Name Disprin Entered For Searching
+INFO  01:34:23 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  01:34:23 Searchng started according to Name = Disprin
+INFO  01:34:23 Drugs Details Returned According to Name = Disprin
+INFO  01:34:27 Drug ID 1 Entered For Searching
+INFO  01:34:27 searchDrugsById from provider is called with DrugId: 1
+INFO  01:34:27 Searchng started according to DrugId = 1
+INFO  01:34:27 Drugs Details Returned According to DrugId = 1
+INFO  01:52:16  Drug Name 1 Entered For Searching
+INFO  01:52:16 searchDrugsByName from provider is called with DrugName: 1
+INFO  01:52:16 Searchng started according to Name = 1
+INFO  01:52:16 Drugs Details Returned According to Name = 1
+INFO  01:52:22  Drug Name Disprin Entered For Searching
+INFO  01:52:22 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  01:52:22 Searchng started according to Name = Disprin
+INFO  01:52:22 Drugs Details Returned According to Name = Disprin
+INFO  01:52:32  Drug Name Paracetamol Entered For Searching
+INFO  01:52:32 searchDrugsByName from provider is called with DrugName: Paracetamol
+INFO  01:52:32 Searchng started according to Name = Paracetamol
+INFO  01:52:32 Drugs Details Returned According to Name = Paracetamol
+INFO  03:37:32 Application started. Press Ctrl+C to shut down.
+INFO  03:37:32 Hosting environment: Development
+INFO  03:37:32 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Drugs-Microservice
+INFO  03:40:18  Drug Name Disprin Entered For Searching
+INFO  03:40:18 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  03:40:18 Searchng started according to Name = Disprin
+INFO  03:40:18 Drugs Details Returned According to Name = Disprin
+INFO  03:40:25 Drug ID 1 Entered For Searching
+INFO  03:40:25 searchDrugsById from provider is called with DrugId: 1
+INFO  03:40:25 Searchng started according to DrugId = 1
+INFO  03:40:25 Drugs Details Returned According to DrugId = 1
+INFO  03:40:30 Drug ID 2 Entered For Searching
+INFO  03:40:30 searchDrugsById from provider is called with DrugId: 2
+INFO  03:40:30 Searchng started according to DrugId = 2
+INFO  03:40:30 Drugs Details Returned According to DrugId = 2
+INFO  03:51:25  Drug Name Disprin Entered For Searching
+INFO  03:51:25 searchDrugsByName from provider is called with DrugName: Disprin
+INFO  03:51:25 Searchng started according to Name = Disprin
+INFO  03:51:25 Drugs Details Returned According to Name = Disprin
+INFO  05:31:28 Application started. Press Ctrl+C to shut down.
+INFO  05:31:28 Hosting environment: Development
+INFO  05:31:28 Content root path: C:\Users\wwwde\OneDrive\Desktop\Book-My-Doctor-MOP\Drugs-Microservice
