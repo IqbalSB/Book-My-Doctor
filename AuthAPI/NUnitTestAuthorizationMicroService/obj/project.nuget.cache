@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pircAG4KJl+Wg9W5B+XIA1WR7ZPpIVcZPgOkDQnMfqw8XgWs3NEfMCaWHH+7CAiK9EyWAsyNDaZTdBMtRULv0Q==",
+  "dgSpecHash": "/wnOKUBptU+pZsfUvaq2XFrr3cDXYG6bIykvZ4YjWmRmOdfe80GMNsBmW7IePsORS+VWEFpjzI6cd32s74H/vw==",
   "success": true,
-  "projectFilePath": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\NUnitTestAuthorizationMicroService\\NUnitTestAuthorizationMicroService.csproj",
+  "projectFilePath": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\NUnitTestAuthorizationMicroService\\NUnitTestAuthorizationMicroService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",

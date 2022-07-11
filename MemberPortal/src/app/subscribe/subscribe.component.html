@@ -1,0 +1,77 @@
+<div style="background-image: url(https://i.snipboard.io/eZ89sx.jpg); background-repeat: no-repeat; background-size: cover;height: 92vh;">
+<h1>Subscribe To Mail Order Pharmacy!</h1>
+<div class="container-fluid" style="margin-top: 10%;">
+  <div class="row">
+    <div class="offset-lg-3 col-lg-6">
+
+      <div class="row" style="background-color: rgba(204, 204, 204, 0);">
+
+        <form >
+          <div class="row" style="display: block;">
+            <h2 style="text-align: center;">Subscribe To Order Drugs!</h2>
+          </div>
+          <div class="row">
+            <div class="offset-lg-3 col-lg-6">
+              <div class="form-group">
+                <label for="drugid">Enter Policy ID</label>
+                <input type="number" #drugid class="form-control" formControlName="DrugId" placeholder=""
+                   autocomplete="off" />
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="offset-lg-3 col-lg-6">
+              <div class="form-group">
+                <label for="drugid">Enter Member ID</label>
+                <input type="number" #drugid class="form-control" formControlName="DrugId" placeholder="" autocomplete="off" />
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="offset-lg-3 col-lg-2">
+              <br>
+              <div class="form-group" style="text-align: center;">
+                <button type="submit" class="btn btn-danger btn-lg btn-block">Subscribe</button>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <br>
+              <span></span>
+            </div>
+          </div>
+          <br>
+          <!-- //Put some value here -->
+          <div *ngIf=true>
+            <h2>Available Drugs</h2>
+            <div>
+              <table class="table table-bordered table-hover">
+                <thead>
+                  <tr>
+                    <th>Drug Name</th>
+                    <th>Manufactured By</th>
+                    <th>Manufacture Date</th>
+                    <th>Expiry Date</th>
+                    <th>Location - Quantity</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- <tr *ngFor='let drug of drugs'>
+                    <td>{{drug.name}}</td>
+                    <td>{{drug.manufacturer}}</td>
+                    <td>{{ drug.manufacturedDate | date : 'dd-MM-yyyy'}}</td>
+                    <td>{{drug.expiryDate | date : 'dd-MM-yyyy'}}</td>
+                    <td>{{drug.location}}</td>
+                  </tr> -->
+
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+        </form>
+
+      </div>
+    </div>
+  </div>
+</div>
+</div>

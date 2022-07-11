@@ -1,0 +1,17 @@
+
+<!-- Toolbar -->
+<div class="header" *ngIf="displaymenu" >
+ <h5 style="margin-right: 25%;margin-left: 12px;display: inline;font-weight: 700;">Book My Doctor</h5>
+ <a routerLink="home" class="menulink">Home</a>
+ <a routerLink="searchdrug" class="menulink">Search By Name</a>
+ <a routerLink="searchdrugid" class="menulink">Search By ID</a>
+ <a routerLink="subscribe" class="menulink">Subscribe</a>
+ <a routerLink="refillstatus" class="menulink">Refill Status</a>
+ <a routerLink="login" style="margin-right: 12px;float: right;" (click)="logoff()" class="menulink">Logout</a>
+</div>
+<br>
+<div class="container-fluid">
+<div class="row">
+<router-outlet></router-outlet>
+</div>
+</div>

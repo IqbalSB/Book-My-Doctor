@@ -1,0 +1,15 @@
+table {
+
+  border-color: black;
+  border-width: 2;
+}
+
+td,
+th {
+  text-align: center;
+}
+h1{
+  font-weight: 800;
+  text-align: center;
+  font-family: monospace;
+}

@@ -4506,11 +4506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
+      "projectUniqueName": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
       "projectName": "AuthorizationMicroService",
-      "projectPath": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
+      "projectPath": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\AuthorizationMicroService\\obj\\",
+      "outputPath": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\AuthorizationMicroService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

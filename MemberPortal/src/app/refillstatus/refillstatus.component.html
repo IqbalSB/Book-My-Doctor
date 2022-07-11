@@ -1,0 +1,72 @@
+<div style="background-image: url(https://i.snipboard.io/eZ89sx.jpg); background-repeat: no-repeat; background-size: cover;height: 92vh;">
+<h1>Check Available Refills!</h1>
+<div class="container-fluid" style="margin-top: 10%;">
+  <div class="row">
+    <div class="offset-lg-3 col-lg-6">
+
+      <div class="row" style="background-color: rgba(204, 204, 204, 0);">
+
+        <form (ngSubmit)="ProceedWithSearch()">
+
+
+          <div class="row" style="display: block;">
+            <h2 style="text-align: center;">Search Refill Status By ID</h2>
+          </div>
+          <div class="row">
+            <div class="offset-lg-3 col-lg-6">
+              <div class="form-group">
+                <input type="number" #drugid class="form-control" formControlName="DrugId" placeholder="Enter Refill ID"
+                  (input)="getvalue(drugid.value)" autocomplete="off" />
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="offset-lg-3 col-lg-2">
+              <br>
+              <div class="form-group" style="text-align: center;">
+                <button type="submit" class="btn btn-primary btn-lg btn-block">Search</button>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <br>
+              <span></span>
+            </div>
+          </div>
+          <br>
+          <!-- //Put some value here -->
+          <div *ngIf=true>
+            <h2>Refill Status</h2>
+            <div>
+              <table class="table table-bordered table-hover">
+                <thead>
+                  <tr>
+                    <th>Refill Id</th>
+                    <th>Refill Date</th>
+                    <th>Drug Quantity</th>
+                    <th>Refill Delivery</th>
+                    <th>Payment Done</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- id: 1, refillDate: "2020-11-24T12:12:00", drugQuantity: 10, refillDelivered: true, payment: true,…} -->
+                  <tr *ngFor='let drug of Ref'>
+                    <td>{{drug.id}}</td>
+
+                    <td>{{ drug.refillDate | date : 'dd-MM-yyyy'}}</td>
+                    <td>{{drug.drugQuantity }}</td>
+                    <td>{{drug.refillDelivered}}</td>
+                    <td>{{drug.payment}}</td>
+                  </tr>
+
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+        </form>
+
+      </div>
+    </div>
+  </div>
+</div>

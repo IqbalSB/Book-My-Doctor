@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\NUnitTestAuthorizationMicroService\\NUnitTestAuthorizationMicroService.csproj": {}
+    "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\NUnitTestAuthorizationMicroService\\NUnitTestAuthorizationMicroService.csproj": {}
   },
   "projects": {
-    "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj": {
+    "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
+        "projectUniqueName": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
         "projectName": "AuthorizationMicroService",
-        "projectPath": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
+        "projectPath": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\AuthorizationMicroService\\obj\\",
+        "outputPath": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\AuthorizationMicroService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,14 +99,14 @@
         }
       }
     },
-    "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\NUnitTestAuthorizationMicroService\\NUnitTestAuthorizationMicroService.csproj": {
+    "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\NUnitTestAuthorizationMicroService\\NUnitTestAuthorizationMicroService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\NUnitTestAuthorizationMicroService\\NUnitTestAuthorizationMicroService.csproj",
+        "projectUniqueName": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\NUnitTestAuthorizationMicroService\\NUnitTestAuthorizationMicroService.csproj",
         "projectName": "NUnitTestAuthorizationMicroService",
-        "projectPath": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\NUnitTestAuthorizationMicroService\\NUnitTestAuthorizationMicroService.csproj",
+        "projectPath": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\NUnitTestAuthorizationMicroService\\NUnitTestAuthorizationMicroService.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\NUnitTestAuthorizationMicroService\\obj\\",
+        "outputPath": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\NUnitTestAuthorizationMicroService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -123,8 +123,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj": {
-                "projectPath": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj"
+              "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj": {
+                "projectPath": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w1alSoc8OT69MWBeBT1VHcNMhwVbeEm1EoVts0Ur/TeuGSf2bNlOeQB/sDhbWEQ0CHkjGjlJ03Gb+OopPV9s6g==",
+  "dgSpecHash": "p7WtmCuM/wXfBj2Q0roBuW3qcitg4zu+MlJCOoCACJGuu/pcUd0yeG5gROddkRhY2Z5h74VOQZpPvEF0Bfz1eQ==",
   "success": true,
-  "projectFilePath": "E:\\Training\\Book-My-Doctor-Final\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
+  "projectFilePath": "E:\\Training\\Book-My-Doctor-Final\\Book-My-Doctor\\AuthAPI\\AuthorizationMicroService\\AuthorizationMicroService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnet.cors\\5.0.0\\microsoft.aspnet.cors.5.0.0.nupkg.sha512",
